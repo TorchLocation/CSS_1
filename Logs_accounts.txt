@@ -1,0 +1,8 @@
+{
+    "torch.location@outlook.com": {
+        "Last check": "2023-06-06",
+        "Today's points": 460,
+        "Points": 500
+    },
+    "Elapsed time": "00:12:04"
+}
